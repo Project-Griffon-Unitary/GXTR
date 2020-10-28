@@ -1,7 +1,7 @@
 ## Def 900 25 0 28 10 20
 
-# Griffon Extracted Technical Reports
-## Classficaton Definisson for Technical Reports
+## Griffon Extracted Technical Reports
+# Classficaton Definisson for Technical Reports
 ### Example
 
 ex::: GXTR FTC92010-1
@@ -30,6 +30,7 @@ C：Custom　慣行：
 F：Definission　定義：  
 D：Draft　試案：  
 E：Experiment　実験：  
+M：Proposed scheme　提案：  
 U：Undertake　契約：Project-Griffon-Unitaryとの公開契約  
 
 ### Technical Field
