@@ -1,7 +1,11 @@
+
+
 ## Def 900 25 0 28 10 20
 
 ## Griffon Extracted Technical Reports
-# Classficaton Definisson for Technical Reports
+
+# Classification Definition for Technical Reports
+
 ### Example
 
 ex::: GXTR FTC92010-1
@@ -15,8 +19,6 @@ TC9：Technical Field
 (None)：None=First "r"=revised  
 (None)：None=Base "a"+(Nr)=annex  
 
-
-
 ### Report Type
 
 Q：Request　勧告：  
@@ -27,7 +29,7 @@ T：Standard　標準：
 S：Specification　仕様：  
 H：Historic　歴史：  
 C：Custom　慣行：  
-F：Definission　定義：  
+F：Definition　定義：  
 D：Draft　試案：  
 E：Experiment　実験：  
 M：Proposed scheme　提案：  
