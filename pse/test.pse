@@ -1,0 +1,17 @@
+%!PS4E
+remark -p :This is PostScript 4 Extended:
+mode render
+init (File) /file,(Str)ddfname
+include io.format((Str)"".cc("./").cc(ddfname).cc(".ddf")) as (Format) /format
+include io.conf((Str)"./dafault.pconf","font-style") as (Conf) /deffon
+
+extruct /file {mode dor,format /format}
+
+def /title-font {findfont /deffon,scalefont 2em}
+def /head-font {findfont /deffon,scalefont 1.5em,content /title}
+def /sub-head-font {findfont /deffon,scalefont 1.17em,content /title}
+def /head-font {findfont /deffon,scalefont 1em,content /title}
+
+def /title {setfont title-font,content /title}
+
+fn /category =  (){}

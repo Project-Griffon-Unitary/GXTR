@@ -1,10 +1,10 @@
-# Drf GXTR DST92010-1R01
+# Proposed Scheme for Shell
 
 ## Griffon Extracted Technical Reports
 
-# Proposed Scheme for Shell
+### Drf GXTR DST92010-1R01
 
-### Main
+## Main
 
 New=>  
 Shell := Shell Environment + Shell Language  
